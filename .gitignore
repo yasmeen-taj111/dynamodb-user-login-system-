@@ -1,1 +1,13 @@
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Environment variables (Crucial for security!)
 .env
+
+# Mac system files
+.DS_Store
+
+# Virtual environments
+venv/
+env/
